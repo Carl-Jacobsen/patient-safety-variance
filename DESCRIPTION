@@ -1,0 +1,19 @@
+Package: varianceproject
+Title: Patient Safety Variance Project (JHF/PRHI)
+Version: 0.1.0
+Description: Analysis project for hospital patient-safety variance. This
+    DESCRIPTION exists to declare the dependency set explicitly, so that
+    renv::snapshot(type = "explicit") records what the project intends to
+    depend on rather than only what today's scripts happen to call. Stage 1
+    (the ported Phase 0 drivers) deliberately uses none of these: it is base
+    R, so it runs before the library is restored.
+Encoding: UTF-8
+Imports:
+    renv,
+    jsonlite,
+    readxl,
+    data.table,
+    mice,
+    lme4,
+    mclust,
+    sf

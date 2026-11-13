@@ -1,0 +1,16 @@
+phase0-numbers.R and phase0-followup.R moved to R/ at Task 1.1.
+
+They are now stage 1 and stage 1b of make.R. The bodies are unchanged from the
+Phase 0 versions -- only the header comments differ -- so every number quoted in
+spike-outcome.md, spike-structure.md, spike-context.md, admission-gates.md, and
+plan-amendments.md still regenerates from them, now via:
+
+    Rscript make.R --stage 1
+    Rscript make.R --stage 1b
+
+Output is teed to output/tables/phase0-numbers.txt and phase0-followup.txt.
+
+Older Phase 0 notes cite these scripts at their old provenance/ paths. That is
+the only thing this file is here to explain. There is deliberately no second
+copy in provenance/: two copies of a regeneration script is how the numbers in
+one document quietly stop matching the numbers in another.

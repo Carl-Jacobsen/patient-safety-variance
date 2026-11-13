@@ -1,0 +1,16 @@
+from,to,note
+data-raw/spike-phase0/CandD_hospital.csv,data-raw/careCompare_2022Q3-2024Q2/Complications_and_Deaths-Hospital.csv,Task 1.2 moved and restored the publisher filename
+data-raw/spike-phase0/CMS_PSI_6_decimal_file.csv,data-raw/careCompare_2022Q3-2024Q2/CMS_PSI_6_decimal_file.csv,Task 1.2 moved
+data-raw/spike-phase0/Footnote_Crosswalk.csv,data-raw/careCompare_2022Q3-2024Q2/Footnote_Crosswalk.csv,Task 1.2 moved
+data-raw/spike-phase0/Measure_Dates.csv,data-raw/careCompare_2022Q3-2024Q2/Measure_Dates.csv,Task 1.2 moved
+data-raw/spike-phase0/Hospital_General_Information.csv,data-raw/careCompare_2022Q3-2024Q2/Hospital_General_Information.csv,Task 1.2 moved
+data-raw/spike-phase0/HAC_FY2026.csv,data-raw/hacrp_fy2026/FY_2026_HAC_Reduction_Program_Hospital.csv,Task 1.2 moved and restored the publisher filename
+data-raw/spike-phase0/fy2026-impact.zip,data-raw/blockA/fy2026-ipps-fr-impact-file.zip,Task 1.3 moved and restored the publisher filename
+data-raw/spike-phase0/fy2025-impact.zip,data-raw/blockA/fy-2025-ipps-fr-impact-file.zip,Task 1.3 moved and restored the publisher filename
+data-raw/spike-phase0/CostReport_2023_Final.csv,data-raw/blockA/CostReport_2023_Final.csv,Task 1.3 moved
+data-raw/spike-phase0/SVI_2022_US.csv,data-raw/blockB/SVI_2022_US.csv,Task 1.4 moved
+data-raw/spike-phase0/SVI_2022_US_county.csv,data-raw/blockB/SVI_2022_US_county.csv,Task 1.4 moved
+data-raw/spike-phase0/zcta_county_rel.txt,data-raw/blockB/tab20_zcta520_county20_natl.txt,Task 1.4 moved and restored the publisher filename
+data-raw/spike-phase0/Hospital_Service_Area_2023.csv,data-raw/hsaf/Hospital_Service_Area_2023.csv,Task 1.5 moved
+data-raw/spike-phase0/Hospital_Service_Area_2024.csv,data-raw/hsaf/Hospital_Service_Area_2024.csv,Task 1.5 moved (stage 1b cross-vintage test reads it)
+data-raw/spike-phase0/dstlr-7.1.xlsx,data-raw/blockC/dstlr-7.1.xlsx,Task 1.6 moved

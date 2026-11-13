@@ -1,0 +1,5 @@
+# Analytic file freeze -- Task 2.8. These hashes are the pin; make.R re-checks them.
+1827b418832f27f9db1b9edf1a4664d093bf859bdd760240180759c98eeda4e8  data/analytic-v1.rds
+7d409b5dcc434da57110af2f21afd4dd02ac3731f6671839807d3c057da57ee7  serialised-object-v3
+66d5f73b7df3a426f688041e8ed0766dcd86038dab1081429b5c0bf1b66ab7ab  data/analytic-v2.rds
+f37a24f5e10bf8414ecbead8aee64db8c140acfbb7e10d67b534c40ae8f16156  serialised-object-v3  analytic-v2

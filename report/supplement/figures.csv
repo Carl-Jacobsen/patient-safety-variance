@@ -1,0 +1,6 @@
+number,file,caption,place
+1,fig1-reliability-by-volume.png,"Reliability of the published PSI-90 composite under the project's scalar approximation, by Medicare volume and by hospital location. The values are conditional on that approximation, not a reconstruction of CMS's component smoothing.",
+2,fig3-spec-curve.png,"The ten-measure disadvantage contrast across every specification that includes the community block, with the members of the Rashomon set marked.",after-heading
+3,fig5-tis-decomposition.png,"Direct and shared reliance for the ten disadvantage measures, the total importance ranking with its signed version, and the mean flow table across the Rashomon set (exploratory).",
+4,fig6-archetype-validation.png,"Star rating against operating-margin tercile, observed against expected counts, beside the memo's per-Track parameters. The memo's bed counts are inputs for constructed health-system scenarios; the cell medians are for individual hospitals.",
+5,fig7-payment-distribution.png,"Simulated bonus rate and bonus dollars per hospital under the project-defined rank rule using CASH2's bonus band and revenue share, by catchment ADI quintile, model-implied disadvantage, safety-net status and star-rating and margin cell.",
